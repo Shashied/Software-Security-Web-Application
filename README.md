@@ -1,5 +1,5 @@
 # Software-Security-Web-Application
-This Repository contains codes and Report for the Software Security Assignment
+This Repository contains codes and the Report for the Software Security Assignment.
 
 ## Quick Links
  * ### [Codes](https://github.com/Shashied/Software-Security-Web-Application/tree/master/Webapp)
