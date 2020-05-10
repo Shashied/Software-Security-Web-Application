@@ -9,7 +9,7 @@ This Repository contains codes and Report for the Software Security Assignment
 ## Deploy and Testing
 
 ### Step 1: Install XAMPP Web Server Application and open the XAMMP Control Pannel
-![](https://github.com/Shashied/Software-Security-Web-Application/blob/master/ss%20readme%20img/Capture.PNG)
+![](https://github.com/Shashied/Software-Security-Web-Application/blob/master/ss%20readme%20img/rsz_capture.png)
 
 ### Step 2: Start Apache and MYSQL
 ![](https://github.com/Shashied/Software-Security-Web-Application/blob/master/ss%20readme%20img/Capture2.PNG)
