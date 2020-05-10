@@ -14,6 +14,6 @@ This Repository contains codes and the Report for the Software Security Assignme
 ### Step 2: Start Apache and MYSQL
 ![](https://github.com/Shashied/Software-Security-Web-Application/blob/master/ss%20readme%20img/rsz_1capture2.png)
 
-### Step 3:Go to the web browser and type http://localhost/webapp/index.html
+### Step 3: Go to the web browser and type http://localhost/webapp/index.html
 This will launch the web Application. The functioning process of this app
 is illustarted using this [video](https://youtu.be/86ODZW-qbps?t=8). 
