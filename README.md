@@ -4,7 +4,7 @@ This Repository contains codes and the Report for the Software Security Assignme
 ---
 ## Quick Links
  * ### [Codes](https://github.com/Shashied/Software-Security-Web-Application/tree/master/Webapp)
- * ### [Report]()
+ * ### [Report](https://github.com/Shashied/Software-Security-Web-Application/blob/master/Software%20Security%20Web%20Application%20Report.pdf)
  * ### [Youtube Demo](https://youtu.be/86ODZW-qbps?t=8)
 --- 
 ## Deploy and Testing
