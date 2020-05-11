@@ -19,4 +19,4 @@ This Repository contains codes and the Report for the Software Security Assignme
 #### So the path should look like this >>> C:\xampp\htdocs\Webapp
 
 ### Step 4: Go to the web browser and type http://localhost/webapp/index.html 
-  #### This will launch the web Application. The functioning process of this app is illustarted using this [video(https://youtu.be/86ODZW-qbps?t=8). 
+  #### This will launch the web Application. The functioning process of this app is illustarted using this [video](https://youtu.be/86ODZW-qbps?t=8). 
